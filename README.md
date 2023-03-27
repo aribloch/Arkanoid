@@ -10,8 +10,8 @@ The control in the balls achieved by moving the paddle in the bootom of the scre
 To pause the game use `p`. To continue, use `SPACE`. <br>
 
 ## Levels<>br
-There are 4 levels in this game: <br>
-Level 1: <>br
+There are 4 levels in this game:<br>
+Level 1: <br>
 
 
 Level 2: <br>
