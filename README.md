@@ -9,6 +9,17 @@ Every time ball hit block, the block disappeared.<br>
 The control in the balls achieved by moving the paddle in the bootom of the screen by the keyboards left and right arrows.<br>
 To pause the game use `p`. To continue, use `SPACE`. <br>
 
+## Levels<>br
+There are 4 levels in this game: <br>
+Level 1: <>br
+
+
+Level 2: <br>
+
+Level 3: <br>
+
+Level 4: <br>
+
 ## run <br>
 First, clone the repo. Than use the following commands inside the project folder:<br>
 To run this game from level 1 to 4 use the command `ant run`. <br>
