@@ -28,5 +28,5 @@ To clean all the compilation files use ant clean.
 To compile the game without run it use ant compile.<br>
 
 ## Requirements <br>
-Java.
-Ant
+ - Java<br>
+ - Ant
