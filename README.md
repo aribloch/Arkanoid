@@ -12,7 +12,7 @@ To pause the game use `p`. To continue, use `SPACE`. <br>
 ## Levels <br>
 There are 4 levels in this game:<br>
 Level 1: <br>
-
+![My Image](https://user-images.githubusercontent.com/101872202/198084543-ee33f5a3-d565-43e2-a130-32522f4f45b9.png)
 
 Level 2: <br>
 
