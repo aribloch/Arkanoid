@@ -7,7 +7,7 @@ This is assignment in the oop-course of Bar-Ilan University. <br>
 The goal is to eliminate all the blocks on the screen.<br>
 Every time ball hit block, the block disappeared.<br>
 The control in the balls achieved by moving the paddle in the bootom of the screen by the keyboards left and right arrows.<br>
-To pause the game use p. To continue, use SPACE. <br>
+To pause the game use `p`. To continue, use `SPACE`. <br>
 
 ## run <br>
 First, clone the repo. Than use the following commands inside the project folder:<br>
