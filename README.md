@@ -9,7 +9,7 @@ Every time ball hit block, the block disappeared.<br>
 The control in the balls achieved by moving the paddle in the bootom of the screen by the keyboards left and right arrows.<br>
 To pause the game use `p`. To continue, use `SPACE`. <br>
 
-## Levels<>br
+## Levels <br>
 There are 4 levels in this game:<br>
 Level 1: <br>
 
